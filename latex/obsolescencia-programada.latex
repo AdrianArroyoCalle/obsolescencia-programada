@@ -1,0 +1,95 @@
+\documentclass[a4paper,12pt]{article}
+
+\usepackage[spanish,activeacute]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{url}
+\pagenumbering{arabic}
+
+\title{Obsolescencia Programada}
+\author{Adrián Arroyo Calle}
+\date{\small{\today}}
+
+
+\begin{document}
+
+\maketitle
+
+\section{¿Qué es?}
+
+\begin{quotation}
+Se denomina obsolescencia programada a la determinación o programación 
+del fin de la vida útil de un producto , de modo que, tras un período de
+ tiempo calculado de antemano por el fabricante o por la empresa durante
+ la fase de diseño de dicho producto o servicio, éste se torne obsoleto,
+ no funcional, inútil o inservible.
+\end{quotation}
+Básicamente, una técnica que se aplica a los productos para que se 
+rompan solos y debas comprar otro.
+
+\section{Historia}
+
+El origen del término Obsolescencia Programada se remonta a la Gran 
+Depresión Americana. En 1932, Bernard London propone la obsolescencia 
+programada como manera de salir de la recesión. El quería que fuese una 
+ley obligatoria sin embargo el gobierno estadounidense no aceptó su 
+propuesta. Sin embargo esto que propone no era algo nuevo y está 
+intimamente relacionado con el aumento en la producción gracias al 
+tailorismo y al fordismo. En concreto unas prácticas parecidas llevaba a
+cabo el cártel Phoebus en las cuales diversas empresas dedicadas a la 
+fabricación de bombillas y cuyos propósitos eran:
+
+\begin{itemize}
+\item Estandarizar el proceso de venta
+\item Asegurar unos mínimos de calidad
+\item \textbf{Limitar la duración de las bombillas a 1000 horas}
+\end{itemize}
+
+Anteriormente se habían visto bombillas que sobrepasaban este 
+límite impuesto por las compañías. Sin embargo esto no interesaba a las 
+compañías del cartel pues las bombillas duraban demasiado a la gente y 
+si querían mantener el ritmo de producción tenían que provocar reposiciones. Esta
+es la idea principal de la obsolescencia programada. En 1953 un juez dicatminó 
+que esta práctica era ilegal sin embargo la duración de las bombillas incadescentes 
+no aumentó.
+
+Un ejemplo de este cambio en la duración de las bombillas lo podemos ver 
+en Livermore, una localidad cerca de San Francisco donde en su cuartel 
+de bomberos está la bombilla centenaria. Lleva luciendo desde 1901 
+(aunque fue fabricada antes por las Shelby Electrics Company) y de 
+momento no se ha fundido. Sin embargo ha roto más de 3 webcams por las 
+que podemos ver a la bombilla. \url{http://www.centennialbulb.org/cam.htm}
+
+\section{Tipos de obsolescencia}
+
+El autor del libro The Wast Makers, Vance Packard, afirma que existen 
+tres tipos de obsolescencia programada.
+
+\subsection{Obsolescencia funcional}
+\section{Consecuencias}
+
+\subsection{Económicas}
+
+\subsection{Medioambientales}
+
+\section{Más ejemplos}
+
+\subsection{Nailon}
+
+\subsection{Relojes}
+
+http://zonacasio.blogspot.com.es/2012/09/la-obsolescencia-programada-en-el-mundo.html
+
+\subsection{RDA vs RFA, clones soviéticos}
+
+\section{Ahora mismo}
+
+\subsection{Garantías}
+
+\subsection{Reparaciones}
+http://www.enriquedans.com/2015/01/la-generacion-que-no-sabia-arreglar-sus-juguetes.html
+
+\subsection{Hardware libre y software libre}
+
+
+Sección Bibliografía (en Google Docs ahora mismo)
+\end{document}
