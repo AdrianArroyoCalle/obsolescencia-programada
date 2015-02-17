@@ -98,29 +98,134 @@ obsoletos por su progreso tecnológico tendríamos los famosos disquetes
 
 \section{Consecuencias}
 
+La obsolescencia programada, en todas sus variantes, provoca una serie 
+de consecuencias económicas y medioambientales.
+
 \subsection{Económicas}
+
+La principal consecuencia económica es un aumento de los ingresos para el 
+fabricante a medio plazo. Sin embargo si una empresa actúa independientemente 
+de las demás y aplica plazos de duración más cortos su prestigio puede verse
+afectado y perder ventas a largo plazo. Por eso es necesario para una buena
+obsolescencia programada que todas las empresas ofrezcan productos de duración 
+similar. También el aumento de la producción hace que el precio por unidad
+de cada producto sea inferior a antes de aplicarse la obsolescencia.
 
 \subsection{Medioambientales}
 
-\section{Más ejemplos}
+En el terreno medioambiental, las principales consecuencias vienen del 
+hecho de generar tanta basura y residuos. En los RAEE (Residuos de Aparatos
+Eléctricos y Electrónicos) se puede aprovechar gran parte de los materiales.
+Por otra parte muchos de estos residuos tienen partes de plástico; en los que su 
+descomposición al aire libre varía entre 100 y 1000 años. Otra gran preocupación
+está en materiales como el plomo y el cadmio, ya que la contaminación por producida 
+es muy grave para las personas. Un monitor CRT puede contener hasta 3 kg de plomo.
+La gran parte de esta basura acaba en zonas de África donde la gente rebusca en la basura.
+Técnicamente está prohibido enviar basura a estos sitios desde los países
+desarrollados pero se camuflan bajo ``Ayuda al Desarrollo" y ``donaciones"
+diciendo que esos aparatos les ayudarán pero lo cierto es 
+que van todos rotos. En el mundo textil se han visto empresas que se disfrazan de ONGs
+para vender ropas donadas por la gente a precios exorbitados en África.
 
-\subsection{Nailon}
-
-\subsection{Relojes}
-
-http://zonacasio.blogspot.com.es/2012/09/la-obsolescencia-programada-en-el-mundo.html
-
-\subsection{RDA vs RFA, clones soviéticos}
-
-\section{Ahora mismo}
+\section{En la actualidad}
 
 \subsection{Garantías}
 
+La ley europea obliga a todos los fabricantes a ofrecer una garantía de 2 años
+por cada bien nuevo. A partir de ese tiempo cada fabricante tiene libertar para alargar
+más la garantía o terminarla. Esta garantía consiste en la reparación o la sustitución del producto
+y en caso de que no sea posible por parte de la empresa, devolver el dinero.
+El software por motivos técnicos no está sujeto a las garantías.
+
 \subsection{Reparaciones}
-http://www.enriquedans.com/2015/01/la-generacion-que-no-sabia-arreglar-sus-juguetes.html
+
+La antítesis a la obsolescencia programada son las reparaciones con las cuales
+se puede alargar la vida útil de un producto. Ejecutar una reparación requiere
+conocimiento y en ocasiones son más costosas que comprar un nuevo producto
+desde fábrica. Además el conocimiento de la población en las reparaciones 
+ha disminuido conforme el nivel económico ha ido subiendo. La profesora Danielle
+George hablaba de ``la generación que no sabía arreglar sus juguetes". Quizá también 
+se deba al aumento de la complicación de las reparaciones y los materiales necesarios.
+La ropa es otro claro ejemplo. Cada vez menos ropa se arregla cosiéndola por
+nuestra propia cuenta. 
+\url{http://www.enriquedans.com/2015/01/la-generacion-que-no-sabia-arreglar-sus-juguetes.html}
 
 \subsection{Hardware libre y software libre}
 
+Últimamente están surgiendo proyectos sin ánimo de lucro con el fin de 
+garantizar las libertades de las personas. Sus proyectos son totalmente
+abiertos, todo el mundo puede repararlo o incluso fabricarse uno él mismo.
+Los más importantes dentro del hardware libre son:
 
-Sección Bibliografía (en Google Docs ahora mismo)
+\begin{itemize}
+\item Arduino - un microcontrolador libre
+\item Raspberry Pi - un ordenador completo libre por 35\$
+\item RepRap - una impresora 3D autoreplicable
+\end{itemize}
+
+En el software libre encontramos software cuyo código fuente puede ser modificado
+por nosotros con las ventajas potenciales que tiene entre ellas la fácil detección
+y eliminación de obsolescencia. Los proyectos más populares son:
+
+\begin{itemize}
+\item GNU/Linux - el sistema operativo completo libre
+\item Mozilla Firefox - el navegador libre
+\item LibreOffice - la suite ofimática libre
+\item Apache HTTP - el servidor web más usado del mundo
+\end{itemize}
+
+\section{Más ejemplos}
+
+\subsection{Nylon}
+
+En 1939, la empresa DuPont creó un compuesto tan resistente que era muy 
+difícil de romper. La empresa forzó a sus ingenieros a trabajar en un tejido
+que se estropease más fácilmente. La situación fue retratada en la película
+``El Hombre Blanco"
+
+\subsection{Relojes}
+
+En el mundo de los relojes se ha ido perdiendo poco a poco la idea de durabilidad.
+Marcas como Swatch se han hecho hueco en el mercado con relojes basados en diseños
+y modas y no precisamente en durabilidad y eficacia. Casio por el contrario,
+sigue siendo de las pocas marcas de relojes que se publicitan con durabilidad. En el resto
+del sector no interesan pilas de 10 años o paneles solares.
+
+\subsection{iPod, iPhone y iPad}
+
+Estos dispositivos de Apple no tienen opción de cambiar la batería. En cuanto la batería deja
+de ser funcionales no hay recambios disponibles y se fuerza al usuario a comprar otro aparato
+nuevo. Esto unido a que las baterías en el iPod estaban siendo manipuladas para
+durar menos hace que sea un caso de obsolescencia programada.
+
+\section{Bibliografía}
+
+\begin{itemize}
+\item Comprar, tirar, comprar - RTVE
+\item La vuelta al mundo del forro polar rojo
+\item\url{http://www.messynessychic.com/2013/10/15/the-lost-art-of-the-cutaway/}
+\item\url{http://es.wikipedia.org/wiki/Obsolescencia_programada}
+\item\url{ http://es.wikipedia.org/wiki/Comprar,_tirar,_comprar}
+\item\url{ http://en.wikipedia.org/wiki/Planned_obsolescence}
+\item\url{ http://es.wikipedia.org/wiki/Cártel_Phoebus}
+\item\url{ http://www.taringa.net/posts/ciencia-educacion/17687482/Obsolescencia-programada-y-el-Cartel-Phoebus.html}
+\item\url{ http://www.hicistelclick.com/hacia-el-final/consumismo-manipulacion-y-desinformacion/}
+\item\url{ http://lastressillas.com/wp-content/uploads/2014/12/comprar_tirar_comprar_intro2.jpg}
+\item\url{ http://www.abc.es/20110623/ciencia/abci-misterio-bombilla-encendida-desde-201106231033.html}
+\item\url{ http://www.centennialbulb.org/cam.htm}
+\item\url{ http://www.ecointeligencia.com/2014/06/obsolescencia-programada-tipos-formas/}
+\item\url{ http://www.taringa.net/posts/economia-negocios/17196135/Historia-secreta-de-la-obsolescencia-programada.html}
+\item\url{ http://obsolescenciaprogramada123.blogspot.com.es/p/impacto-sobre-el-medio-ambiente.html}
+\item\url{ http://www.guinguinbali.com/index.php?lang=es&mod=news&cat=2&id=1386}
+\item\url{ http://actualidad.rt.com/actualidad/view/114305-onu-paises-pobres-toxica-basura-electronica}
+\item\url{ http://www.elmundo.es/elmundo/2013/05/07/valencia/1367952358.html}
+\item\url{ http://reciclayayuda.com/}
+\item\url{ http://europa.eu/youreurope/citizens/shopping/shopping-abroad/guarantees/index_es.htm}
+\item\url{ http://www.softwarecontracts.net/p08_software_warranties.htm}
+\item\url{ http://www.pymesyautonomos.com/tecnologia/la-garantia-del-software}
+\item\url{ http://www.enriquedans.com/2015/01/la-generacion-que-no-sabia-arreglar-sus-juguetes.html}
+\item\url{ http://obsolescenciaprogramadayconsumo.blogspot.com.es/2013/05/las-medias-de-nylon.html}
+\item\url{ http://zonacasio.blogspot.com.es/2012/09/la-obsolescencia-programada-en-el-mundo.html}
+
+\end{itemize}
 \end{document}
