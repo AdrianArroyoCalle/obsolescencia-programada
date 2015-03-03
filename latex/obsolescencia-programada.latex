@@ -3,6 +3,13 @@
 \usepackage[spanish,activeacute]{babel}
 \usepackage[utf8]{inputenc}
 \usepackage{url}
+\usepackage{xcolor}
+\usepackage[pdftex,
+	pdfauthor={Adrián Arroyo Calle},
+	pdftitle={Obsolescencia Programada},
+	pdfsubject={¿Qué es la obsolescencia programada?},
+	colorlinks={false},
+	allbordercolors={white}]{hyperref}
 \pagenumbering{arabic}
 
 \title{Obsolescencia Programada}
